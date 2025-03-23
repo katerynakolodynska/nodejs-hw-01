@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "1cac0694-1ad0-4a47-8bdf-4a688841c7a5",
+    "name": "Josephine Jones",
+    "phone": "482-466-0573 x836",
+    "email": "Laila_Pagac@yahoo.com",
+    "job": "Dynamic Marketing Liaison"
+  },
+  {
+    "id": "622c3546-9cdd-42f2-b6c9-4a1399640ae4",
+    "name": "Gail Jacobs-Lindgren",
+    "phone": "965.375.9428 x0365",
+    "email": "Sid15@yahoo.com",
+    "job": "Global Infrastructure Supervisor"
+  }
+]
